@@ -23,3 +23,7 @@ Ze Github's.
 * SOCKS5
   * [Mar. 1996](http://tools.ietf.org/html/rfc1928)
   * [User/Pass Authentication](http://tools.ietf.org/html/rfc1929)
+  
+## Previous Art
+* [ximapd](https://github.com/shugo/ximapd)
+* [mailcatcher](https://github.com/sj26/mailcatcher)
